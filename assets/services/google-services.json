@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934174948025",
+    "project_id": "school-966ea",
+    "storage_bucket": "school-966ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934174948025:android:206650c00f6149e8a8f968",
+        "android_client_info": {
+          "package_name": "com.teknikgg.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934174948025-ti3t68oha45ohij3vk4jvi3hdqm7pq4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qrJy7buUFCWhkVxnLJ68bMroHwRL4yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934174948025-ti3t68oha45ohij3vk4jvi3hdqm7pq4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
